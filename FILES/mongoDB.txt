@@ -1,0 +1,8 @@
+database: btgmedDB
+collection: employees
+
+user: pusonja
+passs: 6CCJNy8H7QiePBWL
+
+
+mongodb+srv://pusonja:6CCJNy8H7QiePBWL@cluster0.ewhfhvn.mongodb.net/?retryWrites=true&w=majority
